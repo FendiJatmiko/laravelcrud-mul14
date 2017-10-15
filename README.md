@@ -7,7 +7,7 @@ based on laravel crud demo from https://github.com/mul14/laravel-crud-demo
 `````````````
 sudo docker run -d pndxdcode/laravelcrud-mul14
 `````````````
-    and point you browser to 127.0.0.1:8000
+* and point you browser to 127.0.0.1:8000
 
 * or build with standard build process, i.e : 
 ````````
