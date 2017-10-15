@@ -3,7 +3,13 @@ laravel container based on debian:stretch and php 7.1
 based on laravel crud demo from https://github.com/mul14/laravel-crud-demo
 
 ## How to use this images 
-* just build with standard build process, i.e : 
+* you could simply run the container :
+`````````````
+sudo docker run -d pndxdcode/laravelcrud-mul14
+`````````````
+and point you browser to 127.0.0.1:8000
+
+* or build with standard build process, i.e : 
 ````````
 docker build -t laravelcrud .
 ```````` 
